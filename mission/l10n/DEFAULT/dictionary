@@ -1,0 +1,60 @@
+dictionary = {
+    ["DictKey_missionName"] = "Operation Wild Bridge",
+    ["DictKey_editorNotes"] = "Самолет можно добавить в очередь появления, поместив маркеры в имя группы.\
+''-IQ-'': Мгновенно появляется (как и АВАКС и танкеры)\
+''-RQ-'': Появится позже в миссии\
+''-TQ-'': Спавнится через N минут после начала миссии (например, -TQ-5-bla появляется через 5 минут после начала миссии)\
+''-STATIC-'': Преобразованы в статические единицы измерения в начале миссии для повышения производительности.\
+\
+Целевые группы используют суффикс в имени группы, например, name-TGT-JUNO. Где JUNO является путевой точкой. Точно так же -STGT- — это вспомогательная группа, что означает, что некоторые сценарии игнорируют этот юнит.\
+- -TGT-NAPPY\
+",
+    ["DictKey_briefing"] = "Operation Wild Bridge\
+2-миссия игрока\
+\
+Дата: 22/06/2001\
+Время: 16:30\
+Погода: Light Rain\
+Ветер: LightBreeze (1 m/s, WNW)\
+\
+Союзники: USA\
+Враги: Russia\
+\
+Previous air raids have failed against a well-defended enemy base. You must destroy this target in a single quick, surgical strike.\
+\
+Задачи\
+- Destroy all military structures designated objective NAPPY.\
+\
+\
+Примечания\
+- Доступна огневая поддержка. Маркерный код: ''ARTY''.\
+\
+\
+- NAPPY    1688\
+\
+\
+Группы полетов\
+- Weasel 5(P)    2× F-16CM bl.50    305.0    CAS    Vaziani\
+- Focus 9    1× E-2D    251.0    AWACS\
+- Texaco 8    1× KC-130    251.0,\
+26X (callsign TKR1)    Refueling\
+- Arco 7    1× KC-135    251.0,\
+27X (callsign TKR2)    Refueling\
+\
+\
+Авиабазы\
+- Vaziani    13R-31L    42.2/140.0/269.0/4.7    108.8/108.8    22X\
+ \
+\
+Планы полетов\
+-     Weasel 5    \
+- 0: TAKEOFF    0 nm    0 nm    0 (354)\
+- 1: NAPPY    55 nm    55 nm    301 (295)\
+- 2: LANDING    55 nm    111 nm    121 (115)\
+\
+\
+Заметки редактора можно найти в нейтральной задаче.\
+",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
